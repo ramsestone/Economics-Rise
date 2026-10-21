@@ -1,0 +1,18 @@
+============================================================
+  CARPETA DE AUDIOS Y MÚSICA PERSONALIZADA (EcoSim)
+============================================================
+
+¡Aquí puedes colocar tus propias canciones o audios para el juego!
+
+Formatos compatibles:
+  • .mp3
+  • .ogg
+  • .wav
+
+Instrucciones:
+1. Copia cualquier canción que te guste en esta carpeta:
+   assets/audio/
+2. El juego la detectará automáticamente al iniciar y la reproducirá
+   en bucle de fondo con ajuste de volumen.
+3. Si no colocas ninguna canción aquí, el juego utilizará automáticamente
+   su banda sonora y efectos chiptune retro sintetizados en tiempo real.

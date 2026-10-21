@@ -1,0 +1,6 @@
+*.bat
+*.exe
+__pycache__
+*.zip
+build/
+dist/
